@@ -49,7 +49,7 @@ In this section, it is described how to reproduce the detection and tracking res
 
 **Authors:** Wu Hao, Jovial Niyogisubizo, Zhao Keliang, Jintao Meng, Wenhui Xi, Hongchang Li, Yanjie Wei
 
-Copyright & copy; 2023. Wu Hao, Jovial Niyogisubizo, Zhao Keliang, Jintao Meng, Wenhui Xi, Hongchang Li, Yanjie Wei and Curators of the Center for High Performance Computing, Shenzhen Institute of Advanced Technology, CAS. All Rights Reserved.
+Copyright & copy, 2023. Wu Hao, Jovial Niyogisubizo, Zhao Keliang, Jintao Meng, Wenhui Xi, Hongchang Li, Yanjie Wei and Curators of the Center for High Performance Computing, Shenzhen Institute of Advanced Technology, CAS. All Rights Reserved.
 
 **Created by:** Ph.D. student: Jovial Niyogisubizo 
 Department of Computer Applied Technology,  
