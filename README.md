@@ -77,4 +77,4 @@ If you find our work useful in your research, please consider citing:
 
 Wu, H.; Niyogisubizo, J.; Zhao, K.; Meng, J.; Xi, W.; Li, H.; Pan, Y.; Wei, Y. A Weakly Supervised Learning Method for Cell Detection and Tracking Using Incomplete Initial Annotations. Int. J. Mol. Sci. 2023, 24, 16028. https://doi.org/10.3390/ijms242216028
 
->[Online Published Paper](https://www.mdpi.com/1422-0067/24/22/16028/pdf)
+>[Online Published Paper](https://www.mdpi.com/1422-0067/24/22/16028)
