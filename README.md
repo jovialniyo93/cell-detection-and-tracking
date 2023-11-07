@@ -1,7 +1,7 @@
 
 # [A Weakly Supervised Learning Method for Cell Detection and Tracking Using Incomplete Initial Annotations](https://www.mdpi.com/1422-0067/24/22/16028/pdf)
 
-The code in this repository is supplementary to our publication **Weakly Supervised Learning Method for Cell Detection and Tracking Using Incomplete Initial Annotations** 
+The code in this repository is supplementary to our publication **A Weakly Supervised Learning Method for Cell Detection and Tracking Using Incomplete Initial Annotations** 
 
 ## Getting Started
 
