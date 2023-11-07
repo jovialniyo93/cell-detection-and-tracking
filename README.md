@@ -1,6 +1,7 @@
-# Weakly Supervised Learning Method for Cell Detection and Tracking Using Incomplete Initial Annotations #
 
-The code in this repository is supplementary to our future publication "Weakly Supervised Learning Method for Cell Detection and Tracking Using Incomplete Initial Annotations" 
+# [A Weakly Supervised Learning Method for Cell Detection and Tracking Using Incomplete Initial Annotations](https://www.mdpi.com/1422-0067/24/22/16028/pdf)
+
+The code in this repository is supplementary to our publication **Weakly Supervised Learning Method for Cell Detection and Tracking Using Incomplete Initial Annotations** 
 
 ## Getting Started
 
@@ -70,4 +71,10 @@ Address: 1068 Xueyuan Blvd., Shenzhen, Guangdong, China
 Postcode: 518055
 jovialniyo93@gmail.com
 
+**Citation Request:** 
 
+If you find our work useful in your research, please consider citing:
+
+Wu, H.; Niyogisubizo, J.; Zhao, K.; Meng, J.; Xi, W.; Li, H.; Pan, Y.; Wei, Y. A Weakly Supervised Learning Method for Cell Detection and Tracking Using Incomplete Initial Annotations. Int. J. Mol. Sci. 2023, 24, 16028. https://doi.org/10.3390/ijms242216028
+
+>[Online Published Paper](https://www.mdpi.com/1422-0067/24/22/16028/pdf)
